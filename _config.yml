@@ -1,16 +1,16 @@
 # Configurations
-title:            KexinX Notebook
-longtitle:        KexinX Notebook
+title:            Kexin's Notebook
+longtitle:        Kexin's Notebook
 author:           Kexin Xie
 email:            xkx842044566@gmail.com
 description: >
-  Kexin's Notebook with the GitBook style.
+  Build Kexin's notebook.
 
 version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://github.com/xkx842044566/kexinx.notebook/'
-baseurl:          '/kexinx.notebook/'
+baseurl:          '/kexinx.notebook'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
@@ -44,7 +44,7 @@ markdown_ext:             markdown,mkdown,mkdn,mkd,md
 permalink:                /:categories/:year-:month-:day-:title:output_ext
 
 # Disqus comments
-# disqushandler:            sighingnow
+# disqushandler:            xkx842044566
 
 exclude:
   - _drafts
