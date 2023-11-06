@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            KexinX Notebook
+longtitle:        KexinX Notebook
+author:           Kexin Xie
+email:            xkx842044566@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Kexin's Notebook with the GitBook style.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://github.com/xkx842044566/kexinx.notebook/'
+baseurl:          '/kexinx.notebook/'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
